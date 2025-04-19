@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 using namespace std;
-
+     
 // Parcel structure
 struct Parcel {
     int id;
